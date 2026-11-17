@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Certificate Verification - Hardika Sharma</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f9; padding: 50px; }
+        .card { background: white; padding: 30px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); display: inline-block; }
+        h2 { color: #333; }
+        p { color: #666; font-size: 16px; }
+        a.button { display: inline-block; margin-top: 20px; padding: 12px 25px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; }
+        a.button:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>NPTEL Online Certification (Unofficial Record)</h2>
+        <p><strong>Name:</strong> Hardika Sharma</p>
+        <p><strong>Course:</strong> Advanced Calculus for Engineers</p>
+        <p><strong>Roll No:</strong> NOC26MA130S355400418</p>
+        <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+        <p>Click below to view the official certificate record file:</p>
+        <a class="button" href="NOC26MA130S355400418.pdf" target="_blank">View Certificate PDF</a>
+    </div>
+</body>
+</html>
